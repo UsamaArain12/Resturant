@@ -1,0 +1,33 @@
+ div h1,h1 {
+     background-color: red;
+     text-align: center;
+ }
+
+ * {
+    background-color: rgb(13, 235, 98);
+     font-family: 'Times New Roman', Times, serif;
+ }
+
+a{
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+ ul{
+    font-weight: bolder;
+    font-size: larger;
+ }
+ button{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+ }
+ a:hover{
+    background-color: burlywood;
+    cursor: pointer;
+    text-decoration: underline;
+ }
+ h1:hover{
+  -webkit-text-fill-color: aqua;
+  cursor: move;
+  text-decoration: underline;
+ }
+ 
